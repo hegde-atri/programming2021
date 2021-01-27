@@ -50,9 +50,9 @@ public class Main {
     Unless it is summer, then the upper limit is 100 instead of 90.
     Given an int temperature and a boolean isSummer, return true if the squirrels play and false otherwise.
      */
-    public boolean squirrelPlay(int temp, boolean isSummer) {
-
-    }
+//    public boolean squirrelPlay(int temp, boolean isSummer) {
+//
+//    }
 
 
 
